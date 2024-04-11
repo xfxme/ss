@@ -4364,7 +4364,7 @@ DOMAIN-SUFFIX,frprn.com,Proxy
 DOMAIN-SUFFIX,freecloudvpn.com,Proxy
 DOMAIN-SUFFIX,d2b7lajjcl3dv8.cloudfront.net,Proxy
 DOMAIN-SUFFIX,www.whathifi.com,Proxy
-DOMAIN-SUFFIX,chat.openai.com,Proxy
+DOMAIN-SUFFIX,chat.openai.com,CN-US-IEPL-GPT
 DOMAIN-SUFFIX,www.x1360.com,Proxy
 DOMAIN-SUFFIX,www.cosmid.net,Proxy
 DOMAIN-SUFFIX,pen.io,Proxy
@@ -9272,7 +9272,7 @@ DOMAIN-SUFFIX,yourko.org,Proxy
 DOMAIN-SUFFIX,geborgen-wachsen.de,Proxy
 DOMAIN-SUFFIX,www.waarbenjij.nl,Proxy
 DOMAIN-SUFFIX,rtsinfo.ch,Proxy
-DOMAIN-SUFFIX,openai.com,Proxy
+DOMAIN-SUFFIX,openai.com,CN-US-IEPL-GPT
 DOMAIN-SUFFIX,maa1815.com,Proxy
 DOMAIN-SUFFIX,www.cutegaytwink.com,Proxy
 DOMAIN-SUFFIX,xxx.xxx,Proxy
@@ -26150,7 +26150,7 @@ DOMAIN-SUFFIX,m.ca821.com,Proxy
 DOMAIN-SUFFIX,sx88.co,Proxy
 DOMAIN-SUFFIX,cs368.com,Proxy
 DOMAIN-SUFFIX,zzx.healthgov.xyz,Proxy
-DOMAIN-SUFFIX,platform.openai.com,Proxy
+DOMAIN-SUFFIX,platform.openai.com,CN-US-IEPL-GPT
 DOMAIN-SUFFIX,xianba.net,Proxy
 DOMAIN-SUFFIX,www.bongolearn.com,Proxy
 DOMAIN-SUFFIX,www.acgn.ren,Proxy
@@ -26610,7 +26610,7 @@ DOMAIN-SUFFIX,yaledailynews.com,Proxy
 DOMAIN-SUFFIX,helpeachpeople.com,Proxy
 DOMAIN-SUFFIX,www.metrodaily.com,Proxy
 DOMAIN-SUFFIX,ftvgirls.com,Proxy
-DOMAIN-SUFFIX,api.openai.com,Proxy
+DOMAIN-SUFFIX,api.openai.com,CN-US-IEPL-GPT
 DOMAIN-SUFFIX,chinafree.org,Proxy
 DOMAIN-SUFFIX,cs067.com,Proxy
 DOMAIN-SUFFIX,www.zavodjenje.com,Proxy
