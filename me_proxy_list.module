@@ -7,6 +7,7 @@
 # 未包含广告过滤
 #
 # 我的自定义列表
+DOMAIN-SUFFIX,nssurge.com,CN-US-IEPL-GPT
 DOMAIN-SUFFIX,gemini.com,CN-US-IEPL-GPT
 DOMAIN-SUFFIX,gemini.google.com,CN-US-IEPL-GPT
 DOMAIN-SUFFIX,one.google.com,CN-US-IEPL-GPT
