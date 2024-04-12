@@ -1,0 +1,34 @@
+# >> AI
+HOST-SUFFIX,nssurge.com,AI
+HOST-SUFFIX,gemini.com,AI
+HOST-SUFFIX,gemini.google.com,AI
+HOST-SUFFIX,one.google.com,AI
+# > AI
+# >> AI Challenge & SSO
+host-suffix,auth0.com,AI
+host,challenges.cloudflare.com,AI
+
+# >> AI Related
+host-suffix,ai.com,AI
+host-suffix,openai.com,AI
+host-suffix,sentry.io,AI
+host-suffix,intercom.io,AI
+host-suffix,identrust.com,AI
+
+# >> AI CDN
+host-suffix,chat.openai.com.cdn.cloudflare.net,AI
+host-suffix,openaiapi-site.azureedge.net,AI
+
+# >> AI Other
+host-suffix,challenges.cloudflare.com,AI
+host-suffix,invoice.stripe.com,AI
+host-suffix,stripe.com,AI
+host-suffix,poe.com,AI
+# >> 直连
+HOST-SUFFIX,me.com,DIRECT
+HOST-SUFFIX,icloud-content.com,DIRECT
+HOST-SUFFIX,jsdelivr.net,DIRECT
+
+# >> 代理
+HOST-SUFFIX,zh.annas-archive.gs,Google
+HOST-SUFFIX,discourse.devontechnologies.com,Google
