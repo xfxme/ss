@@ -2,7 +2,15 @@
 # AUTHOR: xwqwwwwq
 # REPO: https://raw.githubusercontent.com/xfxme/ss/master/AI.list
 # UPDATED: 2024-03-31 02:13:21
-
+DOMAIN-SUFFIX,discourse.devontechnologies.com,Proxy
+DOMAIN-SUFFIX,nssurge.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,gemini.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,gemini.google.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,one.google.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,me.com,DIRECT
+DOMAIN-SUFFIX,icloud-content.com,DIRECT
+DOMAIN-SUFFIX,jsdelivr.net,DIRECT
+DOMAIN-SUFFIX,zh.annas-archive.gs,Proxy
 HOST,browser-intake-datadoghq.com,AI
 HOST,static.cloudflareinsights.com,AI
 HOST-SUFFIX,ai.com,AI
