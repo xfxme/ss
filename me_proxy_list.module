@@ -1,3 +1,4 @@
+#!url=https://raw.githubusercontent.com/xfxme/ss/master/me_proxy_list.module
 #!name=me_proxy_list
 #!homepage=https://github.com/xfxme/ss/blob/master/me_proxy_list.module
 #!desc=Rules:29782 Created:2024-04-10 13:15 Publisher:me
@@ -7,15 +8,77 @@
 # 未包含广告过滤
 #
 # 我的自定义列表
+DOMAIN-SUFFIX,printfab.net,proxy
+DOMAIN-SUFFIX,rou.video,proxy
+DOMAIN-SUFFIX,lululu.one,proxy
+DOMAIN-SUFFIX,maki-math.com,proxy
+DOMAIN-SUFFIX,zh.zlibrary-ng.se,proxy
+DOMAIN-SUFFIX,pilotmoon.com,proxy
+DOMAIN-SUFFIX,r3.o.lencr.org,proxy
+DOMAIN-SUFFIX,zoom.us,proxy
+DOMAIN-SUFFIX,nrzr.li,proxy
+DOMAIN-SUFFIX,ek21.com,proxy
+DOMAIN-SUFFIX,ssrdog.dog,proxy
+DOMAIN-SUFFIX,godog03.com,proxy
+DOMAIN-SUFFIX,ssrdog111.com,proxy
+DOMAIN-SUFFIX,1lib.sk,proxy
+DOMAIN-SUFFIX,voachinese.com,proxy
+DOMAIN-SUFFIX,pincong.rocks,proxy
+DOMAIN-SUFFIX,insighttimer-api.net,proxy
+DOMAIN-SUFFIX,myqnapcloud.cn,direct
+DOMAIN-SUFFIX,mycloudnas.com,direct
+DOMAIN-SUFFIX,ohmygpt.com,proxy
+DOMAIN-SUFFIX,godly.website,proxy
+DOMAIN-SUFFIX,gemini.google.com,AI
+DOMAIN-SUFFIX,vtwocloud.xyz,proxy
+DOMAIN-SUFFIX,bitcoin.org,proxy
+DOMAIN-SUFFIX,binance.com,proxy
+DOMAIN-SUFFIX,mojie,proxy
+DOMAIN-SUFFIX,sspai.com,direct
+DOMAIN-SUFFIX,zh.annas-archive.gs,proxy
+DOMAIN-SUFFIX,jsdelivr.net,direct
+DOMAIN-SUFFIX,icloud-content.com,direct
+DOMAIN-SUFFIX,me.com,direct
 DOMAIN-SUFFIX,discourse.devontechnologies.com,Proxy
-DOMAIN-SUFFIX,nssurge.com,CN-US-IEPL-GPT
-DOMAIN-SUFFIX,gemini.com,CN-US-IEPL-GPT
-DOMAIN-SUFFIX,gemini.google.com,CN-US-IEPL-GPT
-DOMAIN-SUFFIX,one.google.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,nssurge.com,AI
+DOMAIN-SUFFIX,gemini.com,AI
+DOMAIN-SUFFIX,gemini.google.com,AI
+DOMAIN-SUFFIX,one.google.com,AI
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,jsdelivr.net,DIRECT
 DOMAIN-SUFFIX,zh.annas-archive.gs,Proxy
+
+# AI
+DOMAIN,cdn.auth0.com,AI
+DOMAIN,challenges.cloudflare.com,AI
+DOMAIN,openaiapi-site.azureedge.net,AI
+DOMAIN-SUFFIX,chatgpt.com,AI
+DOMAIN-SUFFIX,ai.com,AI
+DOMAIN-SUFFIX,intercom.io,AI
+DOMAIN-SUFFIX,openai.com,AI
+DOMAIN-SUFFIX,identrust.com,AI
+DOMAIN-SUFFIX,oaistatic.com,AI
+DOMAIN-SUFFIX,oaiusercontent.com,AI
+
+DOMAIN-SUFFIX,vimeo.com,AI
+DOMAIN-SUFFIX,vimeocdn.com,AI
+DOMAIN-SUFFIX,hcaptcha.com,AI
+DOMAIN-SUFFIX,akamaized.com,AI
+
+DOMAIN,ai.google.dev,AI
+DOMAIN,alkalimakersuite-pa.clients6.google.com,AI
+DOMAIN,makersuite.google.com,AI
+DOMAIN-SUFFIX,bard.google.com,AI
+DOMAIN-SUFFIX,deepmind.com,AI
+DOMAIN-SUFFIX,deepmind.google,AI
+DOMAIN-SUFFIX,gemini.google.com,AI
+DOMAIN-SUFFIX,generativeai.google,AI
+DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI
+DOMAIN-SUFFIX,apis.google.com,AI
+DOMAIN-KEYWORD,colab,AI
+DOMAIN-KEYWORD,developerprofiles,AI
+DOMAIN-KEYWORD,generativelanguage,AI
 
 # 手工定义的 Proxy 列表
 #TED
@@ -4367,7 +4430,7 @@ DOMAIN-SUFFIX,frprn.com,Proxy
 DOMAIN-SUFFIX,freecloudvpn.com,Proxy
 DOMAIN-SUFFIX,d2b7lajjcl3dv8.cloudfront.net,Proxy
 DOMAIN-SUFFIX,www.whathifi.com,Proxy
-DOMAIN-SUFFIX,chat.openai.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,chat.openai.com,AI
 DOMAIN-SUFFIX,www.x1360.com,Proxy
 DOMAIN-SUFFIX,www.cosmid.net,Proxy
 DOMAIN-SUFFIX,pen.io,Proxy
@@ -9275,7 +9338,7 @@ DOMAIN-SUFFIX,yourko.org,Proxy
 DOMAIN-SUFFIX,geborgen-wachsen.de,Proxy
 DOMAIN-SUFFIX,www.waarbenjij.nl,Proxy
 DOMAIN-SUFFIX,rtsinfo.ch,Proxy
-DOMAIN-SUFFIX,openai.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,openai.com,AI
 DOMAIN-SUFFIX,maa1815.com,Proxy
 DOMAIN-SUFFIX,www.cutegaytwink.com,Proxy
 DOMAIN-SUFFIX,xxx.xxx,Proxy
@@ -26153,7 +26216,7 @@ DOMAIN-SUFFIX,m.ca821.com,Proxy
 DOMAIN-SUFFIX,sx88.co,Proxy
 DOMAIN-SUFFIX,cs368.com,Proxy
 DOMAIN-SUFFIX,zzx.healthgov.xyz,Proxy
-DOMAIN-SUFFIX,platform.openai.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,platform.openai.com,AI
 DOMAIN-SUFFIX,xianba.net,Proxy
 DOMAIN-SUFFIX,www.bongolearn.com,Proxy
 DOMAIN-SUFFIX,www.acgn.ren,Proxy
@@ -26613,7 +26676,7 @@ DOMAIN-SUFFIX,yaledailynews.com,Proxy
 DOMAIN-SUFFIX,helpeachpeople.com,Proxy
 DOMAIN-SUFFIX,www.metrodaily.com,Proxy
 DOMAIN-SUFFIX,ftvgirls.com,Proxy
-DOMAIN-SUFFIX,api.openai.com,CN-US-IEPL-GPT
+DOMAIN-SUFFIX,api.openai.com,AI
 DOMAIN-SUFFIX,chinafree.org,Proxy
 DOMAIN-SUFFIX,cs067.com,Proxy
 DOMAIN-SUFFIX,www.zavodjenje.com,Proxy
