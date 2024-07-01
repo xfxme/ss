@@ -1,7 +1,7 @@
 #!url=https://raw.githubusercontent.com/xfxme/ss/master/me_proxy_list.module
 #!name=me_proxy_list
 #!homepage=https://github.com/xfxme/ss/blob/master/me_proxy_list.module
-#!desc=Rules:29782 Created:2024-04-10 13:15 Publisher:me
+#!desc=Rules:29848 Created:2024-07-01 20:49 Publisher:me
 [Rule]
 #
 # 黑名单中包含了 GFWList 中定义的无法访问的网站，剩下的网站直连。
