@@ -48,7 +48,9 @@ DOMAIN-SUFFIX,one.google.com,AI
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,jsdelivr.net,DIRECT
-DOMAIN-SUFFIX,zh.annas-archive.gs,Proxy
+DOMAIN-SUFFIX,zh.annas-archive.gs,proxy
+DOMAIN-SUFFIX,zh.annas-archive.gs,proxy
+DOMAIN-SUFFIX,bajie.la,proxy
 
 # AI
 DOMAIN,cdn.auth0.com,AI
