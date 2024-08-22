@@ -52,6 +52,7 @@ DOMAIN-SUFFIX,zh.annas-archive.gs,proxy
 DOMAIN-SUFFIX,annas-archive.gs,proxy
 DOMAIN-SUFFIX,bajie.la,proxy
 DOMAIN-SUFFIX,bajie.ca,proxy
+DOMAIN-SUFFIX,24hbook.com,proxy
 
 # AI
 DOMAIN,cdn.auth0.com,AI
