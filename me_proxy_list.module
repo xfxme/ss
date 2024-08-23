@@ -45,6 +45,8 @@ DOMAIN-SUFFIX,nssurge.com,AI
 DOMAIN-SUFFIX,gemini.com,AI
 DOMAIN-SUFFIX,gemini.google.com,AI
 DOMAIN-SUFFIX,one.google.com,AI
+DOMAIN-SUFFIX,notebooklm.google,AI
+DOMAIN-SUFFIX,notebooklm.google.com,AI
 DOMAIN-SUFFIX,me.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,DIRECT
 DOMAIN-SUFFIX,jsdelivr.net,DIRECT
