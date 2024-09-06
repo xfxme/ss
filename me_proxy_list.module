@@ -56,6 +56,7 @@ DOMAIN-SUFFIX,bajie.la,proxy
 DOMAIN-SUFFIX,bajie.ca,proxy
 DOMAIN-SUFFIX,24hbook.com,proxy
 DOMAIN-SUFFIX,flypy.cc,proxy
+DOMAIN-SUFFIX,excalidraw.com,proxy
 # AI
 DOMAIN,cdn.auth0.com,AI
 DOMAIN,challenges.cloudflare.com,AI
