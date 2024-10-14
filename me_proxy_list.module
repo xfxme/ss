@@ -636,7 +636,7 @@ DOMAIN-SUFFIX,apkmirror.com,Proxy
 DOMAIN-SUFFIX,tlc122.com,Proxy
 DOMAIN-SUFFIX,00899s.com,Proxy
 DOMAIN-SUFFIX,stamps.com,Proxy
-DOMAIN-SUFFIX,6youtube.com,Proxy
+DOMAIN-SUFFIX,6youtube.com,YOUTUBE
 DOMAIN-SUFFIX,softsense.ca,Proxy
 DOMAIN-SUFFIX,fulibl.xyz,Proxy
 DOMAIN-SUFFIX,dynamicdns.biz,Proxy
@@ -2811,7 +2811,7 @@ DOMAIN-SUFFIX,meek.bamsoftware.com,Proxy
 DOMAIN-SUFFIX,watchporninpublic.com,Proxy
 DOMAIN-SUFFIX,met-art.com,Proxy
 DOMAIN-SUFFIX,h5galgame.me,Proxy
-DOMAIN-SUFFIX,YOUTUBE.com,Proxy
+DOMAIN-SUFFIX,YOUTUBE.com,YOUTUBE
 DOMAIN-SUFFIX,turntable.fm,Proxy
 DOMAIN-SUFFIX,indiatvnews.com,Proxy
 DOMAIN-SUFFIX,kik.com,Proxy
@@ -5850,7 +5850,7 @@ DOMAIN-SUFFIX,www.jbo87.com,Proxy
 DOMAIN-SUFFIX,jsdd15.jigsy.com,Proxy
 DOMAIN-SUFFIX,googlee.com,Proxy
 DOMAIN-SUFFIX,le2018.com,Proxy
-DOMAIN-SUFFIX,videoyoutube.com,Proxy
+DOMAIN-SUFFIX,videoyoutube.com,YOUTUBE
 DOMAIN-SUFFIX,icegay.tv,Proxy
 DOMAIN-SUFFIX,ideas.com,Proxy
 DOMAIN-SUFFIX,guaneryu.com,Proxy
