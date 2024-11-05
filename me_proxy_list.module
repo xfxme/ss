@@ -9,6 +9,7 @@
 #
 # 我的自定义列表
 DOMAIN-SUFFIX,mojie.live,proxy
+DOMAIN-SUFFIX,adtidy.org,proxy
 DOMAIN-SUFFIX,printfab.net,proxy
 DOMAIN-SUFFIX,rou.video,proxy
 DOMAIN-SUFFIX,lululu.one,proxy
