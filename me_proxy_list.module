@@ -13453,7 +13453,7 @@ DOMAIN-SUFFIX,w2.xggfgczh781.xyz,Proxy
 DOMAIN-SUFFIX,thejakartapost.com,Proxy
 DOMAIN-SUFFIX,epochtimes.com.au,Proxy
 IP-CIDR,67.220.91.18/32,Proxy
-DOMAIN-SUFFIX,googlevideo.com,Proxy
+DOMAIN-SUFFIX,googlevideo.com,YOUTUBE
 DOMAIN-SUFFIX,www.google.bt,Proxy
 DOMAIN-SUFFIX,itland.xyz,Proxy
 DOMAIN-SUFFIX,torguard.net,Proxy
