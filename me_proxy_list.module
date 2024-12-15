@@ -8,6 +8,7 @@
 # 未包含广告过滤
 #
 # 我的自定义列表
+DOMAIN-SUFFIX,khanacademy.org,proxy
 DOMAIN-SUFFIX,mojie.live,proxy
 DOMAIN-SUFFIX,adtidy.org,proxy
 DOMAIN-SUFFIX,printfab.net,proxy
