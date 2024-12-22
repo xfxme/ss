@@ -8,16 +8,7 @@
 # 未包含广告过滤
 #
 # 我的自定义列表
-DOMAIN-SUFFIX,claude.ai,claude
-DOMAIN-SUFFIX,claudeusercontent.com,claude
-DOMAIN-KEYWORD,claude,claude
-DOMAIN-KEYWORD,perplexity,claude
-DOMAIN-KEYWORD,pplx,claude
-DOMAIN-SUFFIX,perplexity.com,claude
-DOMAIN-SUFFIX,pplx.ai,claude
-DOMAIN-SUFFIX,perplexity.ai,claude
-DOMAIN-SUFFIX,anthropic.com,claude
-DOMAIN-KEYWORD,anthropic,claude
+
 DOMAIN-SUFFIX,khanacademy.org,proxy
 DOMAIN-SUFFIX,mojie.live,proxy
 DOMAIN-SUFFIX,adtidy.org,proxy
@@ -71,6 +62,16 @@ DOMAIN-SUFFIX,flypy.cc,proxy
 DOMAIN-SUFFIX,excalidraw.com,proxy
 DOMAIN-SUFFIX,livegore.com,proxy
 # AI
+DOMAIN-SUFFIX,claude.ai,claude
+DOMAIN-SUFFIX,claudeusercontent.com,claude
+DOMAIN-KEYWORD,claude,claude
+DOMAIN-KEYWORD,perplexity,claude
+DOMAIN-KEYWORD,pplx,claude
+DOMAIN-SUFFIX,perplexity.com,claude
+DOMAIN-SUFFIX,pplx.ai,claude
+DOMAIN-SUFFIX,perplexity.ai,claude
+DOMAIN-SUFFIX,anthropic.com,claude
+DOMAIN-KEYWORD,anthropic,claude
 DOMAIN,cdn.auth0.com,AI
 DOMAIN,challenges.cloudflare.com,AI
 DOMAIN,openaiapi-site.azureedge.net,AI
@@ -81,14 +82,19 @@ DOMAIN-SUFFIX,openai.com,AI
 DOMAIN-SUFFIX,identrust.com,AI
 DOMAIN-SUFFIX,oaistatic.com,AI
 DOMAIN-SUFFIX,oaiusercontent.com,AI
-
+DOMAIN-KEYWORD,openai,AI
+DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com,AI
 DOMAIN-SUFFIX,vimeo.com,AI
 DOMAIN-SUFFIX,vimeocdn.com,AI
 DOMAIN-SUFFIX,hcaptcha.com,AI
 DOMAIN-SUFFIX,akamaized.com,AI
-
+DOMAIN-SUFFIX,x.ai,AI
+DOMAIN-SUFFIX,dify.ai,AI
+DOMAIN-SUFFIX,meta.ai,AI
+DOMAIN-SUFFIX,jasper.ai,AI
+DOMAIN-SUFFIX,openart.ai,AI
+DOMAIN-SUFFIX,clipdrop.co,AI
 DOMAIN,ai.google.dev,AI
-DOMAIN,alkalimakersuite-pa.clients6.google.com,AI
 DOMAIN,makersuite.google.com,AI
 DOMAIN-SUFFIX,bard.google.com,AI
 DOMAIN-SUFFIX,deepmind.com,AI
@@ -96,11 +102,22 @@ DOMAIN-SUFFIX,deepmind.google,AI
 DOMAIN-SUFFIX,gemini.google.com,AI
 DOMAIN-SUFFIX,generativeai.google,AI
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com,AI
+DOMAIN,ai.google.dev,AI
+DOMAIN,alkalicore-pa.clients6.google.com,AI
+DOMAIN,gateway.ai.cloudflare.com,AI
 DOMAIN-SUFFIX,apis.google.com,AI
 DOMAIN-KEYWORD,colab,AI
 DOMAIN-KEYWORD,developerprofiles,AI
 DOMAIN-KEYWORD,generativelanguage,AI
-
+DOMAIN-SUFFIX,chat.com,AI
+DOMAIN-SUFFIX,groq.com,AI
+DOMAIN-SUFFIX,sora.com,AI
+DOMAIN-SUFFIX,deepmind.com,AI
+DOMAIN-SUFFIX,anthropic.com,AI
+DOMAIN-SUFFIX,oaistatic.com,AI
+DOMAIN-SUFFIX,notebooklm.google,AI
+DOMAIN-SUFFIX,generativeai.google,AI
+DOMAIN,api.github.com,AI
 # 手工定义的 Proxy 列表
 #TED
 DOMAIN-SUFFIX,tedcdn.com,Proxy
@@ -28194,7 +28211,7 @@ DOMAIN-SUFFIX,lvdp.net,Proxy
 DOMAIN-SUFFIX,breakwa11.github.io,Proxy
 DOMAIN-SUFFIX,3ren.ca,Proxy
 DOMAIN-SUFFIX,metamask.io,Proxy
-DOMAIN-SUFFIX,poe.com,Proxy
+DOMAIN-SUFFIX,poe.com,AI
 DOMAIN-SUFFIX,maa1814.com,Proxy
 DOMAIN-SUFFIX,tw.pikolive.com,Proxy
 DOMAIN-SUFFIX,53.etowns.net,Proxy
