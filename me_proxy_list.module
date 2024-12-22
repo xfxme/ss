@@ -9,8 +9,12 @@
 #
 # 我的自定义列表
 DOMAIN-SUFFIX,claude.ai,claude
+DOMAIN-SUFFIX,claudeusercontent.com,claude
+DOMAIN-KEYWORD,claude,claude
+DOMAIN-KEYWORD,perplexity,claude
 DOMAIN-SUFFIX,perplexity.ai,claude
 DOMAIN-SUFFIX,anthropic.com,claude
+DOMAIN-KEYWORD,anthropic,claude
 DOMAIN-SUFFIX,khanacademy.org,proxy
 DOMAIN-SUFFIX,mojie.live,proxy
 DOMAIN-SUFFIX,adtidy.org,proxy
