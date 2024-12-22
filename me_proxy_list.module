@@ -8,6 +8,9 @@
 # 未包含广告过滤
 #
 # 我的自定义列表
+DOMAIN-SUFFIX,claude.ai,claude
+DOMAIN-SUFFIX,perplexity.ai,claude
+DOMAIN-SUFFIX,anthropic.com,claude
 DOMAIN-SUFFIX,khanacademy.org,proxy
 DOMAIN-SUFFIX,mojie.live,proxy
 DOMAIN-SUFFIX,adtidy.org,proxy
