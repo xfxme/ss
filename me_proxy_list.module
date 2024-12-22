@@ -12,6 +12,9 @@ DOMAIN-SUFFIX,claude.ai,claude
 DOMAIN-SUFFIX,claudeusercontent.com,claude
 DOMAIN-KEYWORD,claude,claude
 DOMAIN-KEYWORD,perplexity,claude
+DOMAIN-KEYWORD,pplx,claude
+DOMAIN-SUFFIX,perplexity.com,claude
+DOMAIN-SUFFIX,pplx.ai,claude
 DOMAIN-SUFFIX,perplexity.ai,claude
 DOMAIN-SUFFIX,anthropic.com,claude
 DOMAIN-KEYWORD,anthropic,claude
