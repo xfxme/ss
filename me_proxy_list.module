@@ -8,7 +8,31 @@
 # 未包含广告过滤
 #
 # 我的自定义列表
+HOST-SUFFIX,doubao.com,direct
+HOST-SUFFIX,stripe.com,proxy
+HOST-SUFFIX,9xbuddy.in,proxy
+HOST-SUFFIX,brew.sh,proxy
+HOST-SUFFIX,kickstarter.com, Proxy
+HOST-SUFFIX,trae.ai,AI
+HOST-SUFFIX,linux.do,proxy
+HOST-SUFFIX,zlib-vip.com,proxy
+HOST-SUFFIX,longbridge.com,proxy
+HOST-SUFFIX,futuhk.com,proxy
+HOST-SUFFIX,theunwindai.com,AI
+HOST-SUFFIX,grok.com,AI
 
+HOST-SUFFIX,recraft.ai,AI
+HOST-SUFFIX,scholarqa.allen.ai,AI
+HOST-SUFFIX,cloud.google.com,AI
+HOST-SUFFIX,mistral.ai,AI
+HOST-SUFFIX,openrouter.ai,claude
+HOST-SUFFIX,codeium.com,claude
+HOST-SUFFIX,deepseek.com,direct
+HOST-SUFFIX,coze.com,claude
+HOST-SUFFIX,aistudio.google.com,AI
+host,cdn.auth0.com,AI
+host,challenges.cloudflare.com,AI
+host,openaiapi-site.azureedge.net, AI
 DOMAIN-SUFFIX,khanacademy.org,proxy
 DOMAIN-SUFFIX,mojie.live,proxy
 DOMAIN-SUFFIX,adtidy.org,proxy
